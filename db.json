@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "id": "f615",
+      "title": "Product-1",
+      "price": "1000",
+      "img": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": "ea4d",
+      "title": "Product-2",
+      "price": "1001",
+      "img": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": "5275",
+      "title": "Product-3",
+      "price": "1200",
+      "img": "https://images.pexels.com/photos/887751/pexels-photo-887751.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": "b25c",
+      "title": "product-4 ",
+      "price": "37200",
+      "img": "https://images.pexels.com/photos/15791952/pexels-photo-15791952/free-photo-of-a-hand-holding-a-smart-phone.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ],
+  "cart": [
+    {
+      "id": "f615",
+      "title": "Product-1",
+      "price": "1000",
+      "img": "https://images.pexels.com/photos/887751/pexels-photo-887751.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": "ea4d",
+      "title": "Product-2",
+      "price": "1001",
+      "img": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ]
+}
